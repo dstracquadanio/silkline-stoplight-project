@@ -27,9 +27,9 @@ Use AI in your development and understand what it produces.
 - The order never changes; only which light is on changes.
 
 **On vs. off**
-- On: full, bright color (reference green is about #4CAF6A), with white text.
+- On: full, bright color (reference green is about #4CAF6A)
 - Off: the same hue, dimmed and muted (dark brick red about #7F3A2A, olive yellow
-  about #857535), with dark text. An off light is still visible, never hidden.
+  about #857535). An off light is still visible, never hidden.
 - Exactly one light is on at a time. No glow or animation is shown in the reference.
 
 ## Logic
